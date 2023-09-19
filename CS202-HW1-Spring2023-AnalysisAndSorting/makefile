@@ -1,0 +1,2 @@
+hw1: 22003880_ZeynepBegum_Kara_hw1_main.cpp 22003880_ZeynepBegum_Kara_hw1_sorting.h 22003880_ZeynepBegum_Kara_hw1_sorting.cpp
+	g++ 22003880_ZeynepBegum_Kara_hw1_main.cpp 22003880_ZeynepBegum_Kara_hw1_sorting.h 22003880_ZeynepBegum_Kara_hw1_sorting.cpp -o hw1

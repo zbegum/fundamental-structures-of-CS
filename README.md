@@ -33,5 +33,5 @@ The course picks up from where CS 201 left by discussing concepts related to alg
 3. [Homework 3: Wildlife Simulation (Heaps and Priority Queues)](CS202-HW3-Spring2023-WildlifeSimulation/)
 4. [Homework 4: Snack Inventory (Balanced Search Trees and Hashing)](CS202-HW4-Spring2023-SnackInventory/)
 
-##Contributing
+## Contributing
 Contributions to this repository are not expected since it's a personal collection of homework solutions. However, if you spot any errors or have suggestions for improvements in the solutions, feel free to open an issue or create a pull request.
